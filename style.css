@@ -1,0 +1,34 @@
+.container {
+    width:600px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family:'Open Sans', sans-serif;
+    }
+
+    .newsletter{
+        color : gray;
+    }
+    .newsletter button{
+     background-color: #3cb878;
+     color: white;
+     border: none;
+     display: block;
+     width: 100% ;
+     height: 30px;
+
+    }
+    .newsletter input{
+
+        display:block;
+        width: 100%;
+        height: 30px;
+        border: 1pxsolid #cfcfcf;
+        margin-bottom: 4px;
+        border-radius: 3px;
+        box-sizing: border-box;
+
+    }
+    .newsletter h3 {
+
+        
+    }
