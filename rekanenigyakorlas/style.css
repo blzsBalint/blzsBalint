@@ -1,0 +1,19 @@
+.container {
+    width:600px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family:'Open Sans', sans-serif;
+    }
+
+    .newsletter{
+        color : gray;
+    }
+    .newsletter button{
+     background-color: #3cb878;
+     color: white;
+     border: none;
+     display: block;
+     width: 100% ;
+     height: 30px;
+
+    }
